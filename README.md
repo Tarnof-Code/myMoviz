@@ -7,5 +7,3 @@ Site qui permet d’afficher les films les plus populaires avec la possibilité 
 <li>API The Movie DB</li>
 <li>Mongo DB</li>
 <br>
-<H3>Lien vers le site</H3>
-https://tarnof-mymoviz.herokuapp.com/
